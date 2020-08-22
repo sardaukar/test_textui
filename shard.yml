@@ -1,0 +1,19 @@
+name: test_textui
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  test_textui:
+    main: src/test_textui.cr
+
+crystal: 0.35.1
+
+license: MIT
+
+dependencies:
+  textui:
+    github: hugopl/textui
+    version: '~> 0.3.0'
+

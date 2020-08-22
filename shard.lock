@@ -1,0 +1,14 @@
+version: 2.0
+shards:
+  cute:
+    git: https://github.com/Papierkorb/cute.git
+    version: 0.3.1
+
+  textui:
+    git: https://github.com/hugopl/textui.git
+    version: 0.3.1
+
+  version_from_shard:
+    git: https://github.com/hugopl/version_from_shard.git
+    version: 1.2.1
+
